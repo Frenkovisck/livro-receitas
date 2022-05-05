@@ -1,4 +1,4 @@
-#Strogonoff de frango
+# Strogonoff de frango
 
 ###Ingredientes:
 3 peitos de frango cortados em cubos
